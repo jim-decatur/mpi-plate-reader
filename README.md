@@ -1,4 +1,4 @@
-# meghna_pr Script
+# meghna_pr script
 
 This repository contains the `meghna_pr` script, designed for processing data from the plate readers at MPI Tübingen. The script can handle output files from the aerobic and anaerobic plate readers, as well as tabular data formats, and performs various data cleaning, analysis, and visualization tasks.
 
